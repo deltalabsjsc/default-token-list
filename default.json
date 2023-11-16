@@ -13,13 +13,45 @@
     "default"
   ],
   "tokens": [
-      {
-        "name": "SUSHI Token",
-        "address": "0x9E8Dc774c146A85D02dC0837d62c6154391979ad",
-        "symbol": "SUSHI",
-        "decimals": 18,
-        "chainId": 1945,
-        "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/VNDC.png"
-      }
-   ]
+    {
+      "address": "0x4c761e48d1e735af551cc38abcbdce1d7faac6e4",
+      "decimals": "18",
+      "name": "Wrapped ONUS",
+      "symbol": "WONUS",
+      "logoURI": "https://miaswap.io/assets/token/0x4c761e48d1e735af551cc38abcbdce1d7faac6e4.png",
+      "chainId": 1975
+    },
+    {
+      "address": "0xc1d3a18c32c42d5c033c2d4bfc151db8fd2c9d81",
+      "decimals": "0",
+      "name": "ONUS-peg VNDC Token",
+      "symbol": "VNDC",
+      "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/VNDC.png",
+      "chainId": 1975
+    },
+    {
+      "address": "0xc339fe28ea8c14c5283c3428896ef816404b635f",
+      "decimals": "18",
+      "name": "Trustdex Wrapped ONUS",
+      "symbol": "TWONUS",
+      "logoURI": "",
+      "chainId": 1975
+    },
+    {
+      "address": "0xf82470cfdf21c175ab57342c311d084307d4ba0f",
+      "decimals": "18",
+      "name": "Trustdex 2 Wrapped ONUS",
+      "symbol": "T2WONUS",
+      "logoURI": "",
+      "chainId": 1975
+    },
+    {
+      "address": "0xff276c6bca1f66fd54a8915e830735d6ab0c7b09",
+      "decimals": "18",
+      "name": "ONUS-peg USDT Token",
+      "symbol": "USDT",
+      "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/usdt.png",
+      "chainId": 1975
+    }
+  ]
 }
