@@ -19,7 +19,7 @@
       "symbol": "SUSHI",
       "decimals": 18,
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "T1",
@@ -27,7 +27,7 @@
       "symbol": "T1",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "BUSD",
@@ -35,7 +35,7 @@
       "symbol": "BUSD",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "F6",
@@ -43,7 +43,7 @@
       "symbol": "F6",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "T611",
@@ -51,7 +51,7 @@
       "symbol": "T611",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "T34",
@@ -59,7 +59,7 @@
       "symbol": "T34",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "T5",
@@ -67,7 +67,7 @@
       "symbol": "T5",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "T_0211",
@@ -75,14 +75,14 @@
       "symbol": "T_0211",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "Wrapped ONUS",
       "address": "0x5653a147156b1a1e0e09661e4841b2fffb1cd438",
       "symbol": "WONUS",
       "decimals": "18",
-      "logoURI": "https://miaswap.io/assets/token/0x4c761e48d1e735af551cc38abcbdce1d7faac6e4.png",
+      "logoURI": "https://miaswap.io/assets/token/0x4c761e48d1e735af551cc38abcbdce1d7faac6e4.png"
     },
     {
       "name": "Native",
@@ -90,7 +90,7 @@
       "symbol": "Native",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "Test_3010",
@@ -98,7 +98,7 @@
       "symbol": "Test_3010",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "CAKE",
@@ -106,7 +106,7 @@
       "symbol": "CAKE",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "D1",
@@ -114,7 +114,7 @@
       "symbol": "D1",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "T6",
@@ -122,7 +122,7 @@
       "symbol": "T6",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "D3",
@@ -130,7 +130,7 @@
       "symbol": "D3",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "T0411",
@@ -138,7 +138,7 @@
       "symbol": "T0411",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "T_0311",
@@ -146,7 +146,7 @@
       "symbol": "T_0311",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "USDT",
@@ -154,7 +154,7 @@
       "symbol": "USDT",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/usdt.png",
+      "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/usdt.png"
     },
     {
       "name": "BC",
@@ -162,7 +162,7 @@
       "symbol": "BC",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "T2",
@@ -170,7 +170,7 @@
       "symbol": "T2",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "D2",
@@ -178,7 +178,7 @@
       "symbol": "D2",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "BUSD",
@@ -186,7 +186,7 @@
       "symbol": "BUSD",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     },
     {
       "name": "USDC",
@@ -194,7 +194,7 @@
       "symbol": "USDC",
       "decimals": "18",
       "chainId": 1945,
-      "logoURI": "",
+      "logoURI": ""
     }
   ]
 }
