@@ -183,7 +183,7 @@
     {
       "name": "BUSD",
       "address": "0xebac619e4c0fd83124da549c834ec52a6e1521aa",
-      "symbol": "BUSD",
+      "symbol": "BUSD", 
       "decimals": "18",
       "chainId": 1945,
       "logoURI": ""
