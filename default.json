@@ -13,13 +13,165 @@
     "default"
   ],
   "tokens": [
-      {
-        "name": "SUSHI Token",
-        "address": "0x9E8Dc774c146A85D02dC0837d62c6154391979ad",
-        "symbol": "SUSHI",
-        "decimals": 18,
-        "chainId": 1945,
-        "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/VNDC.png"
-      }
-   ]
+    {
+      "name": "SUSHI Token",
+      "address": "0x9E8Dc774c146A85D02dC0837d62c6154391979ad",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 1945
+    },
+    {
+      "name": "T1",
+      "address": "0x0b27001204f28ab915872010e43d70ecbe98cab6",
+      "symbol": "T1",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "BUSD",
+      "address": "0x0d711771d442c6327a93e6815a3edf1a81a3fdcb",
+      "symbol": "BUSD",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "F6",
+      "address": "0x19862c6fa81c83e2152083d583fef7b35e291ec7",
+      "symbol": "F6",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "T611",
+      "address": "0x1b4792234f5bd4548d5d0397d5f3aea2ed853034",
+      "symbol": "T611",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "T34",
+      "address": "0x223f8bd8d90e8d605ba43ea45d6dc57933b6a000",
+      "symbol": "T34",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "T5",
+      "address": "0x2ba39a440d28f70efeff385a16fcf96a6c03ea18",
+      "symbol": "T5",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "T_0211",
+      "address": "0x4d8d7fd66946ecec3f9a3a6727471a1ccda77b04",
+      "symbol": "T_0211",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "Wrapped ONUS",
+      "address": "0x5653a147156b1a1e0e09661e4841b2fffb1cd438",
+      "symbol": "WONUS",
+      "decimals": "18"
+    },
+    {
+      "name": "Native",
+      "address": "0x575d414e09790b75a0d6cd2417cb0503f292a43c",
+      "symbol": "Native",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "Test_3010",
+      "address": "0x5828b397ff1779ac7445c3c9b58288bf1209361f",
+      "symbol": "Test_3010",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "CAKE",
+      "address": "0x59766109870c1ad9b5748b4bad40c5075d5b8c01",
+      "symbol": "CAKE",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "D1",
+      "address": "0x722da5e42bd71e9095c7f9230726b6294b742be4",
+      "symbol": "D1",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "T6",
+      "address": "0x72c40a25a25f3ab50b865aa5ba1026d649cd896b",
+      "symbol": "T6",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "D3",
+      "address": "0xb198e04240f958745d54f1333416c00badf3f22e",
+      "symbol": "D3",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "T0411",
+      "address": "0xcbec2127dc840c4172ca1f28f0a4ca66651ee41b",
+      "symbol": "T0411",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "T_0311",
+      "address": "0xccdc8fa1c4fdeda7d171dfc293317b7d6f841a94",
+      "symbol": "T_0311",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "USDT",
+      "address": "0xcd6c169a3aa891f7b4bb698b08adde6cc6ba703f",
+      "symbol": "USDT",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "BC",
+      "address": "0xdafcef81276ad025ec22c576c74becec6872265a",
+      "symbol": "BC",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "T2",
+      "address": "0xe2ae9329b9fc3d56c9ca06c8f9a5b1cf41db13ca",
+      "symbol": "T2",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "D2",
+      "address": "0xe73a9417c15435c77bcb78177c592960e1b7b842",
+      "symbol": "D2",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "BUSD",
+      "address": "0xebac619e4c0fd83124da549c834ec52a6e1521aa",
+      "symbol": "BUSD",
+      "decimals": "18",
+      "chainId": 1945
+    },
+    {
+      "name": "USDC",
+      "address": "0xf346d132ddd59cdb44fde14b91eb99d5d5cff1b0",
+      "symbol": "USDC",
+      "decimals": "18",
+      "chainId": 1945
+    }
+  ]
 }
