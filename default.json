@@ -30,14 +30,6 @@
       "logoURI": ""
     },
     {
-      "name": "BUSD",
-      "address": "0x0d711771d442c6327a93e6815a3edf1a81a3fdcb",
-      "symbol": "BUSD",
-      "decimals": "18",
-      "chainId": 1945,
-      "logoURI": "https://assets.coingecko.com/coins/images/31273/thumb/new_binance-peg-busd.png"
-    },
-    {
       "name": "F6",
       "address": "0x19862c6fa81c83e2152083d583fef7b35e291ec7",
       "symbol": "F6",
