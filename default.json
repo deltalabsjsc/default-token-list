@@ -1,25 +1,125 @@
 {
-  "name": "Default token list",
-  "timestamp": "2023-11-13T15:59:22.657Z",
-  "version": {
-    "major": 11,
-    "minor": 9,
-    "patch": 0
-  },
-  "tags": {},
-  "logoURI": "https://bunny-swap-git-develop-delta-labs-pro-team.vercel.app/logo_bunny.png",
+  "name": "CoinGecko",
+  "logoURI": "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
   "keywords": [
-    "bunnyswap",
-    "default"
+  "defi"
   ],
+  "timestamp": "2023-11-06T22:00:37.316+00:00",
   "tokens": [
-    {
-      "name": "USDT",
-      "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
-      "symbol": "USDT",
-      "decimals": "18",
-      "chainId": 204,
-      "logoURI": ""
-    }
-  ]
-}
+  {
+  "chainId": 204,
+  "address": "0x1e05f5a582e45b58cba5fa318d10344a77fb1d94",
+  "name": "ALLINAI",
+  "symbol": "AIAI",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/29132/thumb/200x200.png?1696528093"
+  },
+  {
+  "chainId": 204,
+  "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+  "name": "Bridged Binance Peg Ethereum  opBNB ",
+  "symbol": "ETH",
+  "decimals": 18
+  },
+  {
+  "chainId": 204,
+  "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+  "name": "Bridged Tether  opBNB ",
+  "symbol": "USDT",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/32613/thumb/usdt_opbnb_bridged.png?1698734789"
+  },
+  {
+  "chainId": 204,
+  "address": "0xf464c09d7f20dc82c6756c65a1ff2e3addfd186b",
+  "name": "Apis finance",
+  "symbol": "BEP-20",
+  "decimals": 2,
+  "logoURI": "https://assets.coingecko.com/coins/images/32621/thumb/SketchPngb2d9c9cdf12d2e64d149663ff03d01b3055e670c941a4edb31e37fc5b910b39e.e00af046.png?1698759088"
+  },
+  {
+  "chainId": 204,
+  "address": "0x9214a3e9b5c49eb146b2247bf0c892fab1bebf06",
+  "name": "AllInXSwap",
+  "symbol": "X",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/32154/thumb/LOGO_ALLINXSWAP.png?1699300341"
+  },
+  {
+  "chainId": 204,
+  "address": "0xadad8fc76b4638e3d0a79dc4bcfce9fe209af04b",
+  "name": "OpVoid",
+  "symbol": "OPVOID",
+  "decimals": 9,
+  "logoURI": "https://assets.coingecko.com/coins/images/31666/thumb/opvoid.jpeg?1696530482"
+  },
+  {
+  "chainId": 204,
+  "address": "0xb01d49c26416a352fac4fbb3d555d5f2543e3247",
+  "name": "CUBISWAP",
+  "symbol": "CUBI",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/31803/thumb/IMG_20230917_222524_599.PNG?1696530618"
+  },
+  {
+  "chainId": 204,
+  "address": "0x196ad5a70279fc112db4f8baf6f5022c9b1cf0a5",
+  "name": "LuigiSwap",
+  "symbol": "LUIGI",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/31802/thumb/luigi.png?1696530617"
+  },
+  {
+  "chainId": 204,
+  "address": "0x340324c45b2dfdbff2542529ec2a6364e56c4c84",
+  "name": "UnstableStableDependableToken",
+  "symbol": "USDT",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/31662/thumb/usdt-opbnb.jpeg?1696530479"
+  },
+  {
+  "chainId": 204,
+  "address": "0xa41b3067ec694dbec668c389550ba8fc589e5797",
+  "name": "Binary Swap",
+  "symbol": "0101",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/31661/thumb/0101.jpeg?1696530478"
+  },
+  {
+  "chainId": 204,
+  "address": "0xb26cfc2c8a5656cfe599fc344cbefec260ba9c0b",
+  "name": "OpMoon",
+  "symbol": "OPMOON",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/31664/thumb/opmoon.jpeg?1696530481"
+  },
+  {
+  "chainId": 204,
+  "address": "0x0646f7be3489695f2ab1b5859bab7082bbe1823a",
+  "name": "OpCZ",
+  "symbol": "OPCZ",
+  "decimals": 9,
+  "logoURI": "https://assets.coingecko.com/coins/images/31663/thumb/opcz.jpeg?1696530480"
+  },
+  {
+  "chainId": 204,
+  "address": "0xc0fec40c3e16ccb3b525963d3349bf841368c120",
+  "name": "ALLINAI",
+  "symbol": "AIAI",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/29132/thumb/200x200.png?1696528093"
+  },
+  {
+  "chainId": 204,
+  "address": "0x4200000000000000000000000000000000000006",
+  "name": "Wrapped BNB",
+  "symbol": "WBNB",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/12591/thumb/binance-coin-logo.png?1696512401"
+  }
+  ],
+  "version": {
+  "minor": 4,
+  "patch": 0
+  }
+  }
