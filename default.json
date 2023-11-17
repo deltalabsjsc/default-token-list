@@ -18,14 +18,16 @@
       "address": "0x766849b29d3d52b83476D7B7963C4Fd0E019A28B",
       "symbol": "USDT",
       "decimals": 18,
-      "chainId": 5611
+      "chainId": 5611,
+      "logoURI": ""
     },
     {
       "name": "VinFast Token",
       "address": "0x77281765875B8cbFa90d87B59ad37a5AA440bD9D",
       "symbol": "VF",
       "decimals": 18,
-      "chainId": 5611
+      "chainId": 5611,
+      "logoURI": ""
     }
   ]
 }
