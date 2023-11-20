@@ -52,6 +52,14 @@
       "symbol": "USDT",
       "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/usdt.png",
       "chainId": 1975
+    },
+    {
+      "address": "0xdfB5E8a4AC08E46258A12AbE737bba5D8c452508",
+      "decimals": "18",
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/usdt.png",
+      "chainId": 1975
     }
   ]
 }
