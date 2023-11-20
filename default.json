@@ -59,7 +59,7 @@
       "name": "BUSD Token",
       "symbol": "BUSD",
       "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/usdt.png",
-      "chainId": 1975
+      "chainId": 1975 
     }
   ]
 }
